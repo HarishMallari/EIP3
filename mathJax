@@ -1,0 +1,10 @@
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference?newreg=ace69297a02f44bd9453b48e8afca48c#
+
+Creating Matrix using Mathblock
+$$
+ \left[ \begin{matrix} 
+ 0.16 & 0.18
+ \end{matrix}\right]
+ *
+ \left[ \begin{matrix} 0.16 & 0.18\end{matrix}\right]
+$$
